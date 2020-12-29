@@ -39,6 +39,7 @@ Least amount of blocks / elements to be displayed is 17, while the highest is 83
 
 After object is initialised you can use calculate method to get a result
 
+
 ### Here is a small example:
 
 This code creates an instance of tipping controller. You cannot have multiple controllers at the same time.
