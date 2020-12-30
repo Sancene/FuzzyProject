@@ -47,7 +47,7 @@ This code creates an instance of tipping controller. You cannot have multiple co
 ```sh
 calc = fuzzyCalculator()
 ```
-Now you can use calculate method to get the result of the script.
+Now you can use `calculate` method to get the result of the script.
 
 ```sh
 print(calc.calculate(1000, 0))
