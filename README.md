@@ -56,6 +56,6 @@ print(calc.calculate(1000, 0))
 ```
 Each calculation will also provide you with a plot
 
-Plot for parameters used in previous example looks like this:
+Plot for parameters used in previous example look like this:
 
 ![Plot](https://i.imgur.com/DR5CXsMl.png)
